@@ -2,7 +2,7 @@
 My submission to the Santa 2020 - The Candy Cane Contest Kaggle Competition
 https://www.kaggle.com/c/santa-2020/
 
-
+TODO: explanation of D-Lin-UCB and TS (and TS-postdiff)
 
 I've added a bunch of algorithms here
 The TS and UCB were copied from some pretty useful startercode notebooks uploeaded by other people in the competition.
